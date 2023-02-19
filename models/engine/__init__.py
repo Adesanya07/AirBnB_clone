@@ -72,7 +72,7 @@
 
     
 
-  <meta name="request-id" content="DCAA:8F10:25D9805:3650D03:63F1FE10" data-pjax-transient="true"/><meta name="html-safe-nonce" content="b6db2e59a3eb0c3bf7a6c8b25444195bc0f68289ca6c3526deb8534a922cb6cc" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJEQ0FBOjhGMTA6MjVEOTgwNTozNjUwRDAzOjYzRjFGRTEwIiwidmlzaXRvcl9pZCI6IjMyNzc1NTA2NDk3NTQxMjM3OTIiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="56d1914961fc078eef1b7a4e3b2453c5c5a9772d5a8b421a499ed67d9283d59b" data-pjax-transient="true"/>
+  <meta name="request-id" content="E03C:4287:2E1E74A:42C9795:63F203F4" data-pjax-transient="true"/><meta name="html-safe-nonce" content="cd6ddaec5ceb4b83351dde37e1cbdcb5c487bc27cbe69efaecfaae17c63fe751" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJFMDNDOjQyODc6MkUxRTc0QTo0MkM5Nzk1OjYzRjIwM0Y0IiwidmlzaXRvcl9pZCI6IjIxMTk2NTc0Mjg0NDQzODIxOTYiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="9951b801329d175fa7ece2e3e7ad3489209b879c5f4e6152be73ad0e09890a45" data-pjax-transient="true"/>
 
 
     <meta name="hovercard-subject-tag" content="repository:598689717" data-turbo-transient>
@@ -141,7 +141,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/Kuuqua/AirBnB_clone/blob/f228600e6c0598cd2efafa6e4405c8187011fc3e/tests/__init__.py" data-turbo-transient>
+    <link rel="canonical" href="https://github.com/Kuuqua/AirBnB_clone/blob/f228600e6c0598cd2efafa6e4405c8187011fc3e/models/engine/__init__.py" data-turbo-transient>
   <meta name="turbo-body-classes" content="logged-out env-production page-responsive page-blob">
 
 
@@ -196,7 +196,7 @@
         <div class="flex-1">
           <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo"
             class="d-inline-block d-lg-none flex-order-1 f5 no-underline border color-border-default rounded-2 px-2 py-1 color-fg-inherit"
-            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/Kuuqua/AirBnB_clone/blob/f228600e6c0598cd2efafa6e4405c8187011fc3e/tests/__init__.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="2d20c5b80beba8e34237eeaaef6b63357bcda2d1f215768dd44f3ef3807df82d"
+            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/Kuuqua/AirBnB_clone/blob/f228600e6c0598cd2efafa6e4405c8187011fc3e/models/engine/__init__.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ee1c008d0f17276ffd2455a9fee510271e8f9375b604da600e0ef878f10499ed"
           >
             Sign&nbsp;up
           </a>
@@ -571,7 +571,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="Wz/6T8RDxf68HWgiYrl69Ur06yOmSXYP9C1RwYXkisX2LMGV9+MactdJVa8371D/l0NqmH5P4FAiF1Wi1BJChw==" />
+        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="GBa6grnX86i1wh9fflqgzsyCRT2kTh2whxT6BExruw5nohDeJWcCQPvrqFPu3mKEjuJiZIaV6gwEX0dT+APUbg==" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -751,9 +751,9 @@
             </div>
 
           <div class="position-relative mr-lg-3 d-lg-inline-block">
-            <a href="/login?return_to=https%3A%2F%2Fgithub.com%2FKuuqua%2FAirBnB_clone%2Fblob%2Ff228600e6c0598cd2efafa6e4405c8187011fc3e%2Ftests%2F__init__.py"
+            <a href="/login?return_to=https%3A%2F%2Fgithub.com%2FKuuqua%2FAirBnB_clone%2Fblob%2Ff228600e6c0598cd2efafa6e4405c8187011fc3e%2Fmodels%2Fengine%2F__init__.py"
               class="HeaderMenu-link HeaderMenu-link--sign-in flex-shrink-0 no-underline d-block d-lg-inline-block border border-lg-0 rounded rounded-lg-0 p-2 p-lg-0"
-              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/Kuuqua/AirBnB_clone/blob/f228600e6c0598cd2efafa6e4405c8187011fc3e/tests/__init__.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="74218776547903a2d8e592f1bc9aed447623061a877531217023ef53065c1790"
+              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/Kuuqua/AirBnB_clone/blob/f228600e6c0598cd2efafa6e4405c8187011fc3e/models/engine/__init__.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="7b0b92f76c0643e305f5e8cf6c1c0d1e31c6d391441981ca366b0e08a8aa4028"
               data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">
               Sign in
             </a>
@@ -761,7 +761,7 @@
 
             <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo&amp;source_repo=Kuuqua%2FAirBnB_clone"
               class="HeaderMenu-link HeaderMenu-link--sign-up flex-shrink-0 d-none d-lg-inline-block no-underline border color-border-default rounded px-2 py-1"
-              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/Kuuqua/AirBnB_clone/blob/f228600e6c0598cd2efafa6e4405c8187011fc3e/tests/__init__.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="74218776547903a2d8e592f1bc9aed447623061a877531217023ef53065c1790"
+              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/Kuuqua/AirBnB_clone/blob/f228600e6c0598cd2efafa6e4405c8187011fc3e/models/engine/__init__.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="7b0b92f76c0643e305f5e8cf6c1c0d1e31c6d391441981ca366b0e08a8aa4028"
               data-analytics-event="{&quot;category&quot;:&quot;Sign up&quot;,&quot;action&quot;:&quot;click to sign up for account&quot;,&quot;label&quot;:&quot;ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show;ref_cta:Sign up;ref_loc:header logged out&quot;}"
             >
               Sign up
@@ -867,14 +867,14 @@
       
 
   <li>
-          <a href="/login?return_to=%2FKuuqua%2FAirBnB_clone" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Kuuqua/AirBnB_clone/blob/f228600e6c0598cd2efafa6e4405c8187011fc3e/tests/__init__.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="4ca989b956fa9e1f6570be0780b12b5157acfce8d6414da66873b32d7f7ea3db" aria-label="You must be signed in to change notification settings" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2">
+          <a href="/login?return_to=%2FKuuqua%2FAirBnB_clone" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Kuuqua/AirBnB_clone/blob/f228600e6c0598cd2efafa6e4405c8187011fc3e/models/engine/__init__.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="5e05bcfcd87b251eff347fdaf40385ceee1532c63b1875b351508a9f63ec47a8" aria-label="You must be signed in to change notification settings" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2">
     <path d="M8 16a2 2 0 001.985-1.75c.017-.137-.097-.25-.235-.25h-3.5c-.138 0-.252.113-.235.25A2 2 0 008 16z"></path><path fill-rule="evenodd" d="M8 1.5A3.5 3.5 0 004.5 5v2.947c0 .346-.102.683-.294.97l-1.703 2.556a.018.018 0 00-.003.01l.001.006c0 .002.002.004.004.006a.017.017 0 00.006.004l.007.001h10.964l.007-.001a.016.016 0 00.006-.004.016.016 0 00.004-.006l.001-.007a.017.017 0 00-.003-.01l-1.703-2.554a1.75 1.75 0 01-.294-.97V5A3.5 3.5 0 008 1.5zM3 5a5 5 0 0110 0v2.947c0 .05.015.098.042.139l1.703 2.555A1.518 1.518 0 0113.482 13H2.518a1.518 1.518 0 01-1.263-2.36l1.703-2.554A.25.25 0 003 7.947V5z"></path>
 </svg>Notifications
 </a>
   </li>
 
   <li>
-          <a icon="repo-forked" id="fork-button" href="/login?return_to=%2FKuuqua%2FAirBnB_clone" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:598689717,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Kuuqua/AirBnB_clone/blob/f228600e6c0598cd2efafa6e4405c8187011fc3e/tests/__init__.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ca9285977ba60e9d9b9d3c6cd0b97180fb9e94a68da19679c55e01d2aa873e71" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+          <a icon="repo-forked" id="fork-button" href="/login?return_to=%2FKuuqua%2FAirBnB_clone" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:598689717,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Kuuqua/AirBnB_clone/blob/f228600e6c0598cd2efafa6e4405c8187011fc3e/models/engine/__init__.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="fb241c39e7751c8e1dd3968129dbc2276242a0cf237d50927b0f5313c1cf83ea" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
     <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="0" data-view-component="true" class="Counter">0</span>
@@ -883,7 +883,7 @@
 
   <li>
         <div data-view-component="true" class="BtnGroup d-flex">
-        <a href="/login?return_to=%2FKuuqua%2FAirBnB_clone" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:598689717,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Kuuqua/AirBnB_clone/blob/f228600e6c0598cd2efafa6e4405c8187011fc3e/tests/__init__.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="7853ee8ad5e92643aee4c083e52e9d4fa3fe18b280ab2677b885dc33c28ea73f" aria-label="You must be signed in to star a repository" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star v-align-text-bottom d-inline-block mr-2">
+        <a href="/login?return_to=%2FKuuqua%2FAirBnB_clone" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:598689717,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Kuuqua/AirBnB_clone/blob/f228600e6c0598cd2efafa6e4405c8187011fc3e/models/engine/__init__.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="641538c39b338b8a2466cd4c0403124d39dcd8002be23edbfadab5466d90102a" aria-label="You must be signed in to star a repository" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star v-align-text-bottom d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Star
@@ -1057,7 +1057,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/Kuuqua/AirBnB_clone/blob/f228600e6c0598cd2efafa6e4405c8187011fc3e/tests/__init__.py">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/Kuuqua/AirBnB_clone/blob/f228600e6c0598cd2efafa6e4405c8187011fc3e/models/engine/__init__.py">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -1065,7 +1065,7 @@
   <details
     class="js-branch-select-menu details-reset details-overlay mr-0 mb-0 "
     id="branch-select-menu"
-    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:598689717,&quot;originating_url&quot;:&quot;https://github.com/Kuuqua/AirBnB_clone/blob/f228600e6c0598cd2efafa6e4405c8187011fc3e/tests/__init__.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="12f5a6e279691723046f12c254aeeadf9b087ce8d37407642f6e546580b81dae">
+    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:598689717,&quot;originating_url&quot;:&quot;https://github.com/Kuuqua/AirBnB_clone/blob/f228600e6c0598cd2efafa6e4405c8187011fc3e/models/engine/__init__.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="25e27f47d27d44767e780ec8002845e0028e6cacda44938c342ddf57a83f0f2e">
     <summary class="btn css-truncate"
             data-hotkey="w"
             title="Switch branches or tags">
@@ -1146,7 +1146,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/Kuuqua/AirBnB_clone/blob/{{ urlEncodedRefName }}/tests/__init__.py" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/Kuuqua/AirBnB_clone/blob/{{ urlEncodedRefName }}/models/engine/__init__.py" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -1188,7 +1188,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/Kuuqua/AirBnB_clone/blob/{{ urlEncodedRefName }}/tests/__init__.py" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/Kuuqua/AirBnB_clone/blob/{{ urlEncodedRefName }}/models/engine/__init__.py" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -1249,7 +1249,7 @@
 
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" rel="nofollow" href="/Kuuqua/AirBnB_clone/tree/f228600e6c0598cd2efafa6e4405c8187011fc3e"><span>AirBnB_clone</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" rel="nofollow" href="/Kuuqua/AirBnB_clone/tree/f228600e6c0598cd2efafa6e4405c8187011fc3e/tests"><span>tests</span></a></span><span class="separator">/</span><strong class="final-path">__init__.py</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" rel="nofollow" href="/Kuuqua/AirBnB_clone/tree/f228600e6c0598cd2efafa6e4405c8187011fc3e"><span>AirBnB_clone</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" rel="nofollow" href="/Kuuqua/AirBnB_clone/tree/f228600e6c0598cd2efafa6e4405c8187011fc3e/models"><span>models</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" rel="nofollow" href="/Kuuqua/AirBnB_clone/tree/f228600e6c0598cd2efafa6e4405c8187011fc3e/models/engine"><span>engine</span></a></span><span class="separator">/</span><strong class="final-path">__init__.py</strong>
   </h2>
     <a href="/Kuuqua/AirBnB_clone/find/f228600e6c0598cd2efafa6e4405c8187011fc3e" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
 </a>
@@ -1260,7 +1260,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:598689717,&quot;originating_url&quot;:&quot;https://github.com/Kuuqua/AirBnB_clone/blob/f228600e6c0598cd2efafa6e4405c8187011fc3e/tests/__init__.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="e2cd93073a3cc31d26d90eca874c7825354f20f336b0caa8e3aedfd8bd206240" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/Kuuqua/AirBnB_clone/find/f228600e6c0598cd2efafa6e4405c8187011fc3e">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:598689717,&quot;originating_url&quot;:&quot;https://github.com/Kuuqua/AirBnB_clone/blob/f228600e6c0598cd2efafa6e4405c8187011fc3e/models/engine/__init__.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="2e8c9f77a309377cf83e7ca261e06a1366cd484ea48804413a9c2806c43156b6" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/Kuuqua/AirBnB_clone/find/f228600e6c0598cd2efafa6e4405c8187011fc3e">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -1272,13 +1272,13 @@
 </button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="tests/__init__.py" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="models/engine/__init__.py" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/Kuuqua/AirBnB_clone/blob/f228600e6c0598cd2efafa6e4405c8187011fc3e/tests/__init__.py" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/Kuuqua/AirBnB_clone/blob/f228600e6c0598cd2efafa6e4405c8187011fc3e/models/engine/__init__.py" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -1321,23 +1321,23 @@
             <a class="text-bold Link--primary" rel="author" data-hovercard-type="user" data-hovercard-url="/users/Kuuqua/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Kuuqua">Kuuqua</a>
 
               <span class="markdown-title">
-                <a data-pjax="true" title="add up" class="Link--secondary" href="/Kuuqua/AirBnB_clone/commit/182554bb2991e2a0eb1fa8651a4b24cacc124902">add up</a>
+                <a data-pjax="true" title="engine" class="Link--secondary" href="/Kuuqua/AirBnB_clone/commit/16e1ba4744626a5cb7279b3f82413ae0ac240d7b">engine</a>
               </span>
           </div>
 
 
           <span class="ml-2">
-            <include-fragment accept="text/fragment+html" src="/Kuuqua/AirBnB_clone/commit/182554bb2991e2a0eb1fa8651a4b24cacc124902/rollup?direction=e" class="d-inline"></include-fragment>
+            <include-fragment accept="text/fragment+html" src="/Kuuqua/AirBnB_clone/commit/16e1ba4744626a5cb7279b3f82413ae0ac240d7b/rollup?direction=e" class="d-inline"></include-fragment>
           </span>
         </div>
         <div class="ml-3 d-flex flex-shrink-0 flex-items-center flex-justify-end color-fg-muted no-wrap">
           <span class="d-none d-md-inline">
             <span>Latest commit</span>
-            <a class="text-small text-mono Link--secondary" href="/Kuuqua/AirBnB_clone/commit/182554bb2991e2a0eb1fa8651a4b24cacc124902" data-pjax>182554b</a>
-            <span itemprop="dateModified"><relative-time datetime="2023-02-14T20:31:16Z" class="no-wrap">Feb 14, 2023</relative-time></span>
+            <a class="text-small text-mono Link--secondary" href="/Kuuqua/AirBnB_clone/commit/16e1ba4744626a5cb7279b3f82413ae0ac240d7b" data-pjax>16e1ba4</a>
+            <span itemprop="dateModified"><relative-time datetime="2023-02-14T20:21:06Z" class="no-wrap">Feb 14, 2023</relative-time></span>
           </span>
 
-          <a data-pjax href="/Kuuqua/AirBnB_clone/commits/master/tests/__init__.py" class="ml-3 no-wrap Link--primary no-underline">
+          <a data-pjax href="/Kuuqua/AirBnB_clone/commits/master/models/engine/__init__.py" class="ml-3 no-wrap Link--primary no-underline">
             <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-history">
     <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"></path>
 </svg>
@@ -1363,7 +1363,7 @@
       <details-dialog
         class="Box Box--overlay d-flex flex-column anim-fade-in fast"
         aria-label="Users who have contributed to this file"
-        src="/Kuuqua/AirBnB_clone/contributors-list/master/tests/__init__.py" preload>
+        src="/Kuuqua/AirBnB_clone/contributors-list/master/models/engine/__init__.py" preload>
         <div class="Box-header">
           <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
             <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
@@ -1412,14 +1412,14 @@
       
 
     <div class="BtnGroup">
-        <a href="/Kuuqua/AirBnB_clone/raw/f228600e6c0598cd2efafa6e4405c8187011fc3e/tests/__init__.py" id="raw-url" data-view-component="true" class="btn-sm btn BtnGroup-item">    Raw
-</a>          <a href="/Kuuqua/AirBnB_clone/blame/f228600e6c0598cd2efafa6e4405c8187011fc3e/tests/__init__.py" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash btn-sm btn BtnGroup-item">    Blame
+        <a href="/Kuuqua/AirBnB_clone/raw/f228600e6c0598cd2efafa6e4405c8187011fc3e/models/engine/__init__.py" id="raw-url" data-view-component="true" class="btn-sm btn BtnGroup-item">    Raw
+</a>          <a href="/Kuuqua/AirBnB_clone/blame/f228600e6c0598cd2efafa6e4405c8187011fc3e/models/engine/__init__.py" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash btn-sm btn BtnGroup-item">    Blame
 </a>    </div>
 
     <div class="d-flex">
         
 <div class="ml-1" >
-  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/Kuuqua/AirBnB_clone/edit/f228600e6c0598cd2efafa6e4405c8187011fc3e/tests/__init__.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="W3vpZCkKJ1l-PrppaZnvIOYJEqWW-GG4LWzY_5GqsaflkaytIYTqRhoEduu4WtJ3j2DnDEM7pKT4Q-x--NTmFw" autocomplete="off" />
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/Kuuqua/AirBnB_clone/edit/f228600e6c0598cd2efafa6e4405c8187011fc3e/models/engine/__init__.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Uh8k6wWPuQ3s8ezE5G1l4lrt2CSVWyVVDi4ZqaQUcVKxUvvieiGUcT9OC66oau5Jvor0skQZEz-VHF2JOk3bKQ" autocomplete="off" />
       <button disabled="disabled" title="You must be signed in to make or propose changes" data-hotkey="e" data-disable-with="" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
 </svg>
@@ -1429,7 +1429,7 @@
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/Kuuqua/AirBnB_clone/edit/f228600e6c0598cd2efafa6e4405c8187011fc3e/tests/__init__.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="nC3R9O2hktd5RbTSKoQ7YcgzcRuuL7GhmMWZfzQq1rMix5Q95S9fyB1_eFD7RwY2oVqEsnvsdL1N6q3-XVSBAw" autocomplete="off" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/Kuuqua/AirBnB_clone/edit/f228600e6c0598cd2efafa6e4405c8187011fc3e/models/engine/__init__.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="RlysrUqjGL5Fbl9R3ya6gnuSX47HvL3davIMnVjN1vqlEXOkNQ01wpbRuDuTITEpn_VzGBb-i7fxwEi9xpR8gQ" autocomplete="off" />
               <button disabled="disabled" title="You must be signed in to make or propose changes" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-muted text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
@@ -1474,14 +1474,14 @@
             <li>
             </li>
           <li>
-            <a class="dropdown-item" href="/Kuuqua/AirBnB_clone/raw/f228600e6c0598cd2efafa6e4405c8187011fc3e/tests/__init__.py">
+            <a class="dropdown-item" href="/Kuuqua/AirBnB_clone/raw/f228600e6c0598cd2efafa6e4405c8187011fc3e/models/engine/__init__.py">
               View raw
             </a>
           </li>
             <li>
                           </li>
             <li>
-              <a class="dropdown-item" href="/Kuuqua/AirBnB_clone/blame/f228600e6c0598cd2efafa6e4405c8187011fc3e/tests/__init__.py">
+              <a class="dropdown-item" href="/Kuuqua/AirBnB_clone/blame/f228600e6c0598cd2efafa6e4405c8187011fc3e/models/engine/__init__.py">
                 View blame
               </a>
             </li>
@@ -1521,7 +1521,7 @@
 </svg>
 </span></template>
 
-  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="" data-tagsearch-path="tests/__init__.py">
+  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="" data-tagsearch-path="models/engine/__init__.py">
   </table>
 </div>
 
@@ -1546,7 +1546,7 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/Kuuqua/AirBnB_clone/blame/f228600e6c0598cd2efafa6e4405c8187011fc3e/tests/__init__.py">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/Kuuqua/AirBnB_clone/blame/f228600e6c0598cd2efafa6e4405c8187011fc3e/models/engine/__init__.py">View git blame</a></li>
           <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/Kuuqua/AirBnB_clone/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
